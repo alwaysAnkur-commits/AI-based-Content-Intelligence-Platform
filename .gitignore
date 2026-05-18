@@ -1,3 +1,8 @@
 Ankur_Task_Tracker.xlsx
-
-venv/
+venv/ 
+.env
+*.csv
+*.xlsx
+*.pyc
+__pycache__/
+data/raw/
