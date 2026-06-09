@@ -1,0 +1,242 @@
+{
+  "fa0ee32b-4448-402c-b773-8875058ed338": {
+    "doc_id": "fa0ee32b-4448-402c-b773-8875058ed338",
+    "title": "US & Canada",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/us-canada",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-09T21:56:47.283207",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:03.541153"
+    }
+  },
+  "05ce8f37-120d-4c1f-a951-ee3aa804a831": {
+    "doc_id": "05ce8f37-120d-4c1f-a951-ee3aa804a831",
+    "title": "BBC InDepth",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/bbcindepth",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-09T21:56:47.304220",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:05.345580"
+    }
+  },
+  "8db0d2bd-7167-4b7c-8cd7-ebc81fbce056": {
+    "doc_id": "8db0d2bd-7167-4b7c-8cd7-ebc81fbce056",
+    "title": "Asia",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/asia",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-09T21:56:47.321887",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:07.139213"
+    }
+  },
+  "70b76be8-0d3b-4f86-99a6-d326fc43711c": {
+    "doc_id": "70b76be8-0d3b-4f86-99a6-d326fc43711c",
+    "title": "BBC Verify",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/bbcverify",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-09T21:56:47.341927",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:08.328735"
+    }
+  },
+  "5fab4ab7-31bc-49f6-b6d7-31ffdadd406b": {
+    "doc_id": "5fab4ab7-31bc-49f6-b6d7-31ffdadd406b",
+    "title": "Europe",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/europe",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-09T21:56:47.361897",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:10.080866"
+    }
+  },
+  "3bc007b7-00b4-4f79-98dd-a8bf8663b281": {
+    "doc_id": "3bc007b7-00b4-4f79-98dd-a8bf8663b281",
+    "title": "Australia",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/australia",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-09T21:56:47.379910",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:11.359333"
+    }
+  },
+  "dcfc39f2-5745-4ce2-864b-9068d8127b8d": {
+    "doc_id": "dcfc39f2-5745-4ce2-864b-9068d8127b8d",
+    "title": "Middle East",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/middle_east",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-09T21:56:47.400929",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:13.050395"
+    }
+  },
+  "b7ff61a3-90f5-4cde-a6ca-6c17c77ed620": {
+    "doc_id": "b7ff61a3-90f5-4cde-a6ca-6c17c77ed620",
+    "title": "Africa",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/africa",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-09T21:56:47.431616",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:14.974493"
+    }
+  },
+  "fddd6d8a-890f-4735-be21-e14c296183ff": {
+    "doc_id": "fddd6d8a-890f-4735-be21-e14c296183ff",
+    "title": "Latin America",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/latin_america",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-09T21:56:47.454673",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:16.992286"
+    }
+  },
+  "abd5e4b9-49d0-4a48-a5ca-044061b1bf96": {
+    "doc_id": "abd5e4b9-49d0-4a48-a5ca-044061b1bf96",
+    "title": "In Pictures",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/in_pictures",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-09T21:56:47.479618",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:18.113926"
+    }
+  },
+  "8f39393c-7544-41b5-b4fa-348263b1e065": {
+    "doc_id": "8f39393c-7544-41b5-b4fa-348263b1e065",
+    "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-09T21:56:47.534334",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:23.846917"
+    }
+  },
+  "a6d20e07-bc65-4b86-a1b1-c6149b4f824f": {
+    "doc_id": "a6d20e07-bc65-4b86-a1b1-c6149b4f824f",
+    "title": "Mercor\u2019s Brendan Foody calls out Sequoia, accusing it of \u2018dual-pricing\u2019 valuation tricks",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-09T21:56:47.559364",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:25.772411"
+    }
+  },
+  "31a3bf6e-df75-4be1-8b33-9a64a08064b1": {
+    "doc_id": "31a3bf6e-df75-4be1-8b33-9a64a08064b1",
+    "title": "OpenAI files confidentially for IPO, following Anthropic",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-09T21:56:47.600410",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:27.911510"
+    }
+  },
+  "dafb0d27-79a4-47bb-8c55-ba3b03f326b9": {
+    "doc_id": "dafb0d27-79a4-47bb-8c55-ba3b03f326b9",
+    "title": "Apple\u2019s WWDC AI demos looked more real after $250M false ad settlement",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-09T21:56:47.625029",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:29.313187"
+    }
+  },
+  "933ff563-7515-4879-9e45-4d29618336f3": {
+    "doc_id": "933ff563-7515-4879-9e45-4d29618336f3",
+    "title": "Apple plays catch-up at WWDC",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-09T21:56:47.649058",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:31.083216"
+    }
+  },
+  "349e1831-f5cd-4e7c-b940-03b772f03537": {
+    "doc_id": "349e1831-f5cd-4e7c-b940-03b772f03537",
+    "title": "Apple\u2019s App Store rolls out personalized recommendations",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-09T21:56:47.674035",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:33.221715"
+    }
+  },
+  "cb294577-d19a-4f05-b816-284edc318ae0": {
+    "doc_id": "cb294577-d19a-4f05-b816-284edc318ae0",
+    "title": "iOS 27 features we didn\u2019t see onstage",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-09T21:56:47.699062",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:35.261710"
+    }
+  },
+  "ca69aec6-bef2-4edf-9464-9d1d26affb53": {
+    "doc_id": "ca69aec6-bef2-4edf-9464-9d1d26affb53",
+    "title": "Microsoft\u2019s open source tools were hacked to steal passwords of AI developers",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-09T21:56:47.729766",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:37.025837"
+    }
+  },
+  "e1f28e32-8870-45f0-8450-47f477cf72b2": {
+    "doc_id": "e1f28e32-8870-45f0-8450-47f477cf72b2",
+    "title": "Apple says it may remove some apps from the App Store if they don\u2019t attract users",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-09T21:56:47.775725",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:38.804047"
+    }
+  },
+  "af5ac309-6972-4012-be0f-83a6cb8728a3": {
+    "doc_id": "af5ac309-6972-4012-be0f-83a6cb8728a3",
+    "title": "Evotrex raises $30M to build the RV that doesn\u2019t need a charging station",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-09T21:56:47.811735",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-09T21:16:40.061941"
+    }
+  }
+}
