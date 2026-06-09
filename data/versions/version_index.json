@@ -1,0 +1,18 @@
+{
+  "v_20260609_224102": {
+    "tag": "v_20260609_224102",
+    "source": "data/processed",
+    "snapshot_path": "data/versions/v_20260609_224102",
+    "created_at": "2026-06-09T22:41:02.544417",
+    "files": [
+      "batch_quality_report.html",
+      "classification_report.csv",
+      "deduped_articles.csv",
+      "dedup_report.csv",
+      "document_registry.json",
+      "quality_scores.csv",
+      "review_queue.json",
+      "routing_log.csv"
+    ]
+  }
+}

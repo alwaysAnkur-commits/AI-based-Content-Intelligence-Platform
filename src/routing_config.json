@@ -1,0 +1,36 @@
+{
+  "routing_rules": {
+    "news": {
+      "pipeline": "ner_pipeline",
+      "description": "Extract named entities from news articles",
+      "next_steps": ["entity_extraction", "sentiment_analysis"]
+    },
+    "invoice": {
+      "pipeline": "table_extraction",
+      "description": "Extract structured table data from invoices",
+      "next_steps": ["table_extract", "field_validation"]
+    },
+    "legal": {
+      "pipeline": "summarization",
+      "description": "Summarize legal documents",
+      "next_steps": ["text_summarize", "clause_extraction"]
+    },
+    "email": {
+      "pipeline": "intent_classification",
+      "description": "Classify email intent",
+      "next_steps": ["intent_detect", "urgency_flag"]
+    },
+    "blog": {
+      "pipeline": "topic_modeling",
+      "description": "Extract topics from blog posts",
+      "next_steps": ["topic_model", "keyword_extraction"]
+    },
+    "research paper": {
+      "pipeline": "citation_extraction",
+      "description": "Extract citations and methodology",
+      "next_steps": ["citation_parse", "methodology_extract"]
+    }
+  },
+  "fallback_pipeline": "general_nlp",
+  "version": "1.0"
+}
