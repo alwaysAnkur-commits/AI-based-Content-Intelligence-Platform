@@ -1,0 +1,17 @@
+[
+  {
+    "image_path": "data\\raw\\extracted_images\\page_0.png",
+    "image_name": "page_0.png",
+    "caption": "a letter from the department requesting that the department is not working"
+  },
+  {
+    "image_path": "data\\raw\\extracted_images\\page_1.png",
+    "image_name": "page_1.png",
+    "caption": "a document with the words, ' the state of texas is a state that has a number of people who"
+  },
+  {
+    "image_path": "data\\raw\\extracted_images\\page_2.png",
+    "image_name": "page_2.png",
+    "caption": "a white paper with the words thank you are not sure to help"
+  }
+]
