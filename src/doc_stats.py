@@ -2,7 +2,7 @@ import textstat
 import pandas as pd
 from collections import Counter
 import re
-import math
+from datetime import datetime
 
 def compute_stats(text: str) -> dict:
     """Compute comprehensive statistics for a single document."""
@@ -21,13 +21,13 @@ def compute_stats(text: str) -> dict:
     # Vocabulary richness: Type-Token Ratio
     ttr = len(unique_words) / word_count if word_count > 0 else 0
     
-    # Lexical diversity: MTLD approximation (simpler version)
+    # Average word length
     avg_word_len = sum(len(w) for w in words) / word_count if word_count > 0 else 0
     
     # Readability scores via textstat
-    flesch_ease = textstat.flesch_reading_ease(text)  # 0-100, higher = easier
-    flesch_grade = textstat.flesch_kincaid_grade(text)  # US grade level
-    fog_index = textstat.gunning_fog(text)  # years of education needed
+    flesch_ease = textstat.flesch_reading_ease(text)
+    flesch_grade = textstat.flesch_kincaid_grade(text)
+    fog_index = textstat.gunning_fog(text)
     
     return {
         "word_count": word_count,
@@ -43,21 +43,37 @@ def compute_stats(text: str) -> dict:
     }
 
 def _empty_stats() -> dict:
-    return {k: 0 for k in ["word_count", "char_count", "sentence_count", "unique_word_count",
-                            "avg_word_length", "vocabulary_richness_ttr", "flesch_reading_ease",
-                            "flesch_kincaid_grade", "gunning_fog_index", "avg_sentence_length"]}
+    return {k: 0 for k in [
+        "word_count", "char_count", "sentence_count", "unique_word_count",
+        "avg_word_length", "vocabulary_richness_ttr", "flesch_reading_ease",
+        "flesch_kincaid_grade", "gunning_fog_index", "avg_sentence_length"
+    ]}
 
 def generate_corpus_stats(records: list) -> pd.DataFrame:
     stats_rows = []
+    run_id = datetime.now().strftime("%Y%m%d_%H%M%S")
+    
     for rec in records:
         text = str(rec.get("body_clean", "") or rec.get("body", ""))
         stats = compute_stats(text)
         stats["doc_id"] = rec.get("doc_id", "")
         stats["source"] = rec.get("source", "")
+        stats["run_id"] = run_id
         stats_rows.append(stats)
     
     df = pd.DataFrame(stats_rows)
-    df.to_csv("data/processed/doc_stats.csv", index=False)
+    out_path = "data/processed/doc_stats.csv"
+    
+    # Append mode with deduplication
+    try:
+        existing = pd.read_csv(out_path)
+        df = pd.concat([existing, df], ignore_index=True)
+        df = df.drop_duplicates(subset=["doc_id"], keep="last")
+    except FileNotFoundError:
+        pass
+    
+    df.to_csv(out_path, index=False)
+    print(f"Updated {out_path} with {len(df)} total documents.")
     
     # Aggregate summary
     numeric_cols = [c for c in df.columns if df[c].dtype in ["float64", "int64"]]
