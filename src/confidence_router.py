@@ -13,11 +13,8 @@ REASON_CODES = {
     "accepted": "High-confidence classification — auto-accepted"
 }
 
-def route_document(doc_id: str, predicted_label: str, confidence: float) -> dict:
-    """
-    Route a single document based on its confidence score.
-    Returns routing decision with reason code.
-    """
+def route_document(doc_id: str, predicted_label: str, confidence: float, batch_id: str) -> dict:
+    """Route a single document based on its confidence score."""
     if confidence >= AUTO_ACCEPT_THRESHOLD:
         status = "auto_accepted"
         reason = REASON_CODES["accepted"]
@@ -27,9 +24,10 @@ def route_document(doc_id: str, predicted_label: str, confidence: float) -> dict
     else:
         status = "rejected"
         reason = REASON_CODES["low_confidence"]
-    
+
     return {
-        "doc_id": doc_id,
+        "batch_id": batch_id,
+        "doc_id": str(doc_id) if pd.notna(doc_id) else "",
         "predicted_label": predicted_label,
         "confidence": confidence,
         "routing_status": status,
@@ -38,43 +36,33 @@ def route_document(doc_id: str, predicted_label: str, confidence: float) -> dict
     }
 
 def build_review_queue(classification_df: pd.DataFrame) -> dict:
-    """
-    Process all classified documents and build:
-    - auto_accepted list
-    - review_queue (flagged 60-85%)
-    - rejected list
-    """
-    queue = {"auto_accepted": [], "review_queue": [], "rejected": []}
+    """Process classified documents and append routing decisions to review_queue.jsonl."""
+    classification_df["doc_id"] = classification_df["doc_id"].fillna("").astype(str)
+    batch_id = datetime.now().strftime("%Y%m%d_%H%M%S")
     summary = {"auto_accepted": 0, "flagged": 0, "rejected": 0}
-    
-    for _, row in classification_df.iterrows():
-        decision = route_document(
-            doc_id=row.get("doc_id", ""),
-            predicted_label=row.get("predicted_label", ""),
-            confidence=float(row.get("confidence", 0.0))
-        )
-        if decision["routing_status"] == "auto_accepted":
-            queue["auto_accepted"].append(decision)
-            summary["auto_accepted"] += 1
-        elif decision["routing_status"] == "flagged_for_review":
-            queue["review_queue"].append(decision)
-            summary["flagged"] += 1
-        else:
-            queue["rejected"].append(decision)
-            summary["rejected"] += 1
-    
-    queue["summary"] = summary
-    queue["generated_at"] = datetime.now().isoformat()
-    
-    Path("data/processed").mkdir(parents=True, exist_ok=True)
-    with open("data/processed/review_queue.json", "w") as f:
-        json.dump(queue, f, indent=2)
-    
-    print(f"\nRouting Summary:")
+    out_path = Path("data/processed/review_queue.jsonl")
+
+    with open(out_path, "a", encoding="utf-8") as f:
+        for _, row in classification_df.iterrows():
+            decision = route_document(
+                doc_id=row.get("doc_id", ""),
+                predicted_label=row.get("predicted_label", ""),
+                confidence=float(row.get("confidence", 0.0)),
+                batch_id=batch_id
+            )
+            f.write(json.dumps(decision) + "\n")
+            if decision["routing_status"] == "auto_accepted":
+                summary["auto_accepted"] += 1
+            elif decision["routing_status"] == "flagged_for_review":
+                summary["flagged"] += 1
+            else:
+                summary["rejected"] += 1
+
+    print(f"\nRouting Summary (Batch {batch_id}):")
     print(f" Auto-accepted: {summary['auto_accepted']}")
     print(f" Flagged for review: {summary['flagged']}")
     print(f" Rejected: {summary['rejected']}")
-    return queue
+    return summary
 
 if __name__ == "__main__":
     df = pd.read_csv("data/processed/classification_report.csv")
