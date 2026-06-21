@@ -718,5 +718,893 @@
     "extra": {
       "scrape_timestamp": "2026-06-09T22:05:30.966449"
     }
+  },
+  "ee9ef5f2-9bc8-45d0-acee-1b7e1ac1c3cc": {
+    "doc_id": "ee9ef5f2-9bc8-45d0-acee-1b7e1ac1c3cc",
+    "title": "In Pictures",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/in_pictures",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-20T18:47:00.346608",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:03.598856"
+    }
+  },
+  "aa72cb71-d19a-4ad8-b70e-7245f1237f98": {
+    "doc_id": "aa72cb71-d19a-4ad8-b70e-7245f1237f98",
+    "title": "BBC Verify",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/bbcverify",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-20T18:47:00.405224",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:05.555557"
+    }
+  },
+  "b39ceb5e-f11e-4ba3-a56d-df23c56a5e2b": {
+    "doc_id": "b39ceb5e-f11e-4ba3-a56d-df23c56a5e2b",
+    "title": "US & Canada",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/us-canada",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-20T18:47:00.445349",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:07.135617"
+    }
+  },
+  "2f512f70-d133-4b85-961f-ffb640679725": {
+    "doc_id": "2f512f70-d133-4b85-961f-ffb640679725",
+    "title": "Middle East",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/middle_east",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-20T18:47:00.487463",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:09.152836"
+    }
+  },
+  "0da515d0-6458-4d0a-8f8a-81eaf793de01": {
+    "doc_id": "0da515d0-6458-4d0a-8f8a-81eaf793de01",
+    "title": "Asia",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/asia",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-20T18:47:00.532968",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:11.165685"
+    }
+  },
+  "66e095ed-6448-43d3-8704-b9d12f288f12": {
+    "doc_id": "66e095ed-6448-43d3-8704-b9d12f288f12",
+    "title": "Europe",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/europe",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-20T18:47:00.584565",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:12.798166"
+    }
+  },
+  "cc0b3981-f3d4-4169-9918-8c5f444c246f": {
+    "doc_id": "cc0b3981-f3d4-4169-9918-8c5f444c246f",
+    "title": "Africa",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/africa",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-20T18:47:00.651418",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:15.017621"
+    }
+  },
+  "a84f306b-471b-448c-8d06-f912be19f4de": {
+    "doc_id": "a84f306b-471b-448c-8d06-f912be19f4de",
+    "title": "BBC InDepth",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/bbcindepth",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-20T18:47:00.700728",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:16.939635"
+    }
+  },
+  "0c27473d-289d-49e7-9ec0-6684bdeae924": {
+    "doc_id": "0c27473d-289d-49e7-9ec0-6684bdeae924",
+    "title": "Australia",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/australia",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-20T18:47:00.743424",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:18.628843"
+    }
+  },
+  "a60bb096-b736-494b-9f6b-c960ffded515": {
+    "doc_id": "a60bb096-b736-494b-9f6b-c960ffded515",
+    "title": "Latin America",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/latin_america",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-20T18:47:00.836530",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:20.302447"
+    }
+  },
+  "e33dd6b9-f297-409f-b262-daf4f14b5008": {
+    "doc_id": "e33dd6b9-f297-409f-b262-daf4f14b5008",
+    "title": "From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-20T18:47:00.956753",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:23.914030"
+    }
+  },
+  "25cf8df7-ddda-4a38-b297-390663cf6341": {
+    "doc_id": "25cf8df7-ddda-4a38-b297-390663cf6341",
+    "title": "Billionaire Ambani wants AI in every call, app, and home",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-20T18:47:01.016024",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:25.900960"
+    }
+  },
+  "c8b0a7c4-2165-4b62-860f-ca043050e5db": {
+    "doc_id": "c8b0a7c4-2165-4b62-860f-ca043050e5db",
+    "title": "The US says ASML\u2019s top chip tool may be in China, but how?",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-20T18:47:01.053086",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:27.340147"
+    }
+  },
+  "49e8b548-dd91-4f4e-9c68-3fbf81c8d49d": {
+    "doc_id": "49e8b548-dd91-4f4e-9c68-3fbf81c8d49d",
+    "title": "The CEO of Allbirds\u2019 new AI biz has a plan, but no team",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-20T18:47:01.128909",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:28.681768"
+    }
+  },
+  "403a1b64-8813-42c3-be77-514b7255671a": {
+    "doc_id": "403a1b64-8813-42c3-be77-514b7255671a",
+    "title": "Go eyes robotaxis and acquisitions after Japan\u2019s biggest IPO of 2026. Here\u2019s why it matters",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-20T18:47:01.182327",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:30.612247"
+    }
+  },
+  "62ab1967-e428-43dc-a67c-d18eb80c7e06": {
+    "doc_id": "62ab1967-e428-43dc-a67c-d18eb80c7e06",
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO\u00a0",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-20T18:47:01.237615",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:32.241394"
+    }
+  },
+  "714bc04e-789d-41c5-bfa5-56f9bf58da5c": {
+    "doc_id": "714bc04e-789d-41c5-bfa5-56f9bf58da5c",
+    "title": "He made your free video player run smoothly. Now he\u2019s doing that for robots.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-20T18:47:01.303335",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:34.237221"
+    }
+  },
+  "57642ac9-9d0e-4ab0-91a5-99bdd66707c8": {
+    "doc_id": "57642ac9-9d0e-4ab0-91a5-99bdd66707c8",
+    "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-20T18:47:01.362500",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:36.091010"
+    }
+  },
+  "e49331b9-301c-4632-b859-dd3697d8728f": {
+    "doc_id": "e49331b9-301c-4632-b859-dd3697d8728f",
+    "title": "Every fusion startup that has raised over $100M",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-20T18:47:01.425582",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:37.498200"
+    }
+  },
+  "b7025901-3f38-4f6f-afa8-a1b50c72bf6a": {
+    "doc_id": "b7025901-3f38-4f6f-afa8-a1b50c72bf6a",
+    "title": "Aura\u2019s impressive e-ink photo frame doesn\u2019t even look digital",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-20T18:47:01.501106",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:39.543696"
+    }
+  },
+  "126d2f87-f132-457f-b0c4-4f51fe2b2398": {
+    "doc_id": "126d2f87-f132-457f-b0c4-4f51fe2b2398",
+    "title": "Big Tech spent two years warning AI would take your job. Now its bosses say the opposite.",
+    "source": "The Next Web",
+    "url": "https://thenextweb.com/news/ai-jobs-narrative-flip-bezos-altman-ceos/",
+    "source_tag": "the_next_web",
+    "ingested_at": "2026-06-20T18:47:01.636169",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "7563bb67-e49f-4613-bdf1-1ebebaa71181": {
+    "doc_id": "7563bb67-e49f-4613-bdf1-1ebebaa71181",
+    "title": "Apple Finally Fixed in the iOS 27 AirPods Menu",
+    "source": "Geeky Gadgets",
+    "url": "https://www.geeky-gadgets.com/ios-27-airpods-settings-redesign/",
+    "source_tag": "geeky_gadgets",
+    "ingested_at": "2026-06-20T18:47:01.680484",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "2ed2607f-aa2b-454d-a161-91a5dd1b3f80": {
+    "doc_id": "2ed2607f-aa2b-454d-a161-91a5dd1b3f80",
+    "title": "Investor\u2019s Favored Twist Bioscience\u2019s (TWST) Association with Technology Companies",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/af5fe38fa34e2bbc",
+    "source_tag": "biztoc.com",
+    "ingested_at": "2026-06-20T18:47:01.737595",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "697d948c-609b-484f-be12-981c57c10c21": {
+    "doc_id": "697d948c-609b-484f-be12-981c57c10c21",
+    "title": "Post-silicon era gets closer as industry giants crack the 2D transistor scaling bottleneck with breakthrough tech \u2014 imec, ASML, and TSMC fab complementary 2D-material transistors at 50nm pitch on a 300mm wafer",
+    "source": "Tom's Hardware UK",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/imec-asml-and-tsmc-build-complementary-2d-material-transistors-at-50nm-pitch-on-a-300mm-wafer",
+    "source_tag": "tom's_hardware_uk",
+    "ingested_at": "2026-06-20T18:47:01.779551",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "8ba81d88-3d45-49f7-9112-f5e03a12cf29": {
+    "doc_id": "8ba81d88-3d45-49f7-9112-f5e03a12cf29",
+    "title": "Fairfax Completes C$300 Million Senior Notes Offering",
+    "source": "Financial Post",
+    "url": "https://financialpost.com/globe-newswire/fairfax-completes-c300-million-senior-notes-offering",
+    "source_tag": "financial_post",
+    "ingested_at": "2026-06-20T18:47:01.833776",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "528c2a89-d63e-4baf-ae32-a7bf2b0c469f": {
+    "doc_id": "528c2a89-d63e-4baf-ae32-a7bf2b0c469f",
+    "title": "Toy Story 5 is a surprisingly thoughtful critique of technology",
+    "source": "Slashdot.org",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183990432",
+    "source_tag": "slashdot.org",
+    "ingested_at": "2026-06-20T18:47:01.895476",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "13d90e86-72ca-4dc5-9e09-d8021bc640aa": {
+    "doc_id": "13d90e86-72ca-4dc5-9e09-d8021bc640aa",
+    "title": "Why the Roku Buyout Is a Cautionary Tale for AI Stocks",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/d82a8fc0abc63c71",
+    "source_tag": "biztoc.com",
+    "ingested_at": "2026-06-20T18:47:01.953074",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "4ae769f8-418d-4147-bd55-d8ff7e1f3a0b": {
+    "doc_id": "4ae769f8-418d-4147-bd55-d8ff7e1f3a0b",
+    "title": "Is Nordson Stock Outperforming the Dow?",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/bc6d8e45c8a1e3db",
+    "source_tag": "biztoc.com",
+    "ingested_at": "2026-06-20T18:47:02.021713",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "42c745de-585c-4441-be32-08101be4f3fb": {
+    "doc_id": "42c745de-585c-4441-be32-08101be4f3fb",
+    "title": "Intel to Make Chips in the US for Apple Devices, Claims President Trump",
+    "source": "Mactrast.com",
+    "url": "https://www.mactrast.com/2026/06/intel-to-make-chips-in-the-us-for-apple-devices-claims-president-trump/",
+    "source_tag": "mactrast.com",
+    "ingested_at": "2026-06-20T18:47:02.062017",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "4a7705d2-7553-4196-bfb0-e0596255c499": {
+    "doc_id": "4a7705d2-7553-4196-bfb0-e0596255c499",
+    "title": "Trading in French server company suspended after short seller\u2019s accusations trigger stock collapse",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/5f8e2119981b7fbd",
+    "source_tag": "biztoc.com",
+    "ingested_at": "2026-06-20T18:47:02.116742",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "cdd3551f-7081-4a7a-9cb2-2a9db612bcdb": {
+    "doc_id": "cdd3551f-7081-4a7a-9cb2-2a9db612bcdb",
+    "title": "Akash Ambani and team prepare Jio for a historic market debut",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/companies/akash-ambani-and-team-prepare-reliance-jio-for-a-historic-market-debut-11781871138780.html",
+    "source_tag": "livemint",
+    "ingested_at": "2026-06-20T18:47:02.158393",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "4abe8d03-6582-4508-8480-4fe70900231a": {
+    "doc_id": "4abe8d03-6582-4508-8480-4fe70900231a",
+    "title": "South Korea\u2019s Nuclear Ambitions Clash With Political Realities",
+    "source": "The Diplomat",
+    "url": "https://thediplomat.com/2026/06/south-koreas-nuclear-ambitions-clash-with-political-realities/",
+    "source_tag": "the_diplomat",
+    "ingested_at": "2026-06-20T18:47:02.191050",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "4b6e486f-acce-4276-9898-8411b768648c": {
+    "doc_id": "4b6e486f-acce-4276-9898-8411b768648c",
+    "title": "Mukesh Ambani unveils 5S model; grooms 500 leaders to support family heirs",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/companies/mukesh-ambani-unveils-5s-model-grooms-500-leaders-to-support-family-heirs/article71121951.ece",
+    "source_tag": "businessline",
+    "ingested_at": "2026-06-20T18:47:02.221705",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "8f43109f-c342-4999-b7d8-85c13511cc48": {
+    "doc_id": "8f43109f-c342-4999-b7d8-85c13511cc48",
+    "title": "The 2026 Core77 Design Awards Emerging Technologies Winners",
+    "source": "Core77.com",
+    "url": "https://www.core77.com/posts/144497/The-2026-Core77-Design-Awards-Emerging-Technologies-Winners",
+    "source_tag": "core77.com",
+    "ingested_at": "2026-06-20T18:47:02.264733",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "0863ed55-6b43-4019-9f87-9d699ee594ad": {
+    "doc_id": "0863ed55-6b43-4019-9f87-9d699ee594ad",
+    "title": "Should you change your phone number after a hack?",
+    "source": "Fox News",
+    "url": "https://www.foxnews.com/tech/should-you-change-phone-number-after-hack",
+    "source_tag": "fox_news",
+    "ingested_at": "2026-06-20T18:47:02.307290",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "827827b5-59c8-4689-b7b6-4e3721283fe2": {
+    "doc_id": "827827b5-59c8-4689-b7b6-4e3721283fe2",
+    "title": "In HelloNation, Med Spa Expert Lindsey Smith Details How Many Sessions It Takes to See Real Results from Body Contouring",
+    "source": "PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/in-hellonation-med-spa-expert-lindsey-smith-details-how-many-sessions-it-takes-to-see-real-results-from-body-contouring-302805402.html",
+    "source_tag": "prnewswire",
+    "ingested_at": "2026-06-20T18:47:02.368457",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "5ffdcbf4-a132-43bc-994f-d8cd7ed50c33": {
+    "doc_id": "5ffdcbf4-a132-43bc-994f-d8cd7ed50c33",
+    "title": "15 Companies that Offer Sweet Military Discounts on Mattresses",
+    "source": "Military.com",
+    "url": "https://military.com/discounts/companies-offer-sweet-military-discounts-mattresses.html",
+    "source_tag": "military.com",
+    "ingested_at": "2026-06-20T18:47:02.432923",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "178dfe0e-00c7-4fa6-9e55-677af35a00f9": {
+    "doc_id": "178dfe0e-00c7-4fa6-9e55-677af35a00f9",
+    "title": "Midnight Madness: The Government Rushes Lawful Access Bill Through the House Without Debate or a Recorded Vote",
+    "source": "Michaelgeist.ca",
+    "url": "https://www.michaelgeist.ca/2026/06/midnight-madness/",
+    "source_tag": "michaelgeist.ca",
+    "ingested_at": "2026-06-20T18:47:02.485461",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "4310d1ad-fb88-44b8-b8dd-8290f36595ad": {
+    "doc_id": "4310d1ad-fb88-44b8-b8dd-8290f36595ad",
+    "title": "e2E Rail targets \u20b91,000 crore revenue by FY29; eyes Southeast Asia expansion, tech acquisitions",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/companies/e2e-rail-targets-1000-crore-revenue-by-fy29-eyes-southeast-asia-expansion-tech-acquisitions/article71122163.ece",
+    "source_tag": "businessline",
+    "ingested_at": "2026-06-20T18:47:02.537186",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:56.121648"
+    }
+  },
+  "6a413b88-cde5-46eb-a665-d9df417e9f11": {
+    "doc_id": "6a413b88-cde5-46eb-a665-d9df417e9f11",
+    "title": "In Pictures",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/in_pictures",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-21T14:04:19.126113",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:03.598856"
+    }
+  },
+  "e811ea59-1b88-4cba-aa92-76254f11738f": {
+    "doc_id": "e811ea59-1b88-4cba-aa92-76254f11738f",
+    "title": "BBC Verify",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/bbcverify",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-21T14:04:19.158263",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:05.555557"
+    }
+  },
+  "37723de7-44ec-4f4f-9ddd-b368e0a59629": {
+    "doc_id": "37723de7-44ec-4f4f-9ddd-b368e0a59629",
+    "title": "US & Canada",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/us-canada",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-21T14:04:19.193467",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:07.135617"
+    }
+  },
+  "f194e0e7-0fb1-43eb-a467-ccad8b6e9d04": {
+    "doc_id": "f194e0e7-0fb1-43eb-a467-ccad8b6e9d04",
+    "title": "Middle East",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/middle_east",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-21T14:04:19.237566",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:09.152836"
+    }
+  },
+  "36c349dd-c06a-4451-b494-4351f302df7d": {
+    "doc_id": "36c349dd-c06a-4451-b494-4351f302df7d",
+    "title": "Asia",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/asia",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-21T14:04:19.285689",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:11.165685"
+    }
+  },
+  "84602b2c-c1f6-45e9-acf2-7bd86dbb38e4": {
+    "doc_id": "84602b2c-c1f6-45e9-acf2-7bd86dbb38e4",
+    "title": "Europe",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/europe",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-21T14:04:19.322299",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:12.798166"
+    }
+  },
+  "7cfcbd60-babf-465c-872f-d3a10b1d1455": {
+    "doc_id": "7cfcbd60-babf-465c-872f-d3a10b1d1455",
+    "title": "Africa",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/africa",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-21T14:04:19.377732",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:15.017621"
+    }
+  },
+  "2e616d47-42d3-4af6-9709-122692a2950e": {
+    "doc_id": "2e616d47-42d3-4af6-9709-122692a2950e",
+    "title": "BBC InDepth",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/bbcindepth",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-21T14:04:19.419790",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:16.939635"
+    }
+  },
+  "9083ba71-c694-4dbf-b51c-748fdd4c430e": {
+    "doc_id": "9083ba71-c694-4dbf-b51c-748fdd4c430e",
+    "title": "Australia",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/australia",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-21T14:04:19.465036",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:18.628843"
+    }
+  },
+  "e77df5b4-28d2-4eca-8f8c-a90276692694": {
+    "doc_id": "e77df5b4-28d2-4eca-8f8c-a90276692694",
+    "title": "Latin America",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/latin_america",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-21T14:04:19.522717",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:20.302447"
+    }
+  },
+  "a28250a2-f00b-4422-9e58-dac9d6abbc16": {
+    "doc_id": "a28250a2-f00b-4422-9e58-dac9d6abbc16",
+    "title": "From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:19.565804",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:23.914030"
+    }
+  },
+  "96fa6fd9-dab9-4aab-a57b-b4517912a0fd": {
+    "doc_id": "96fa6fd9-dab9-4aab-a57b-b4517912a0fd",
+    "title": "Billionaire Ambani wants AI in every call, app, and home",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:19.606402",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:25.900960"
+    }
+  },
+  "0bf36502-7344-4738-837e-626449b01967": {
+    "doc_id": "0bf36502-7344-4738-837e-626449b01967",
+    "title": "The US says ASML\u2019s top chip tool may be in China, but how?",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:19.651307",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:27.340147"
+    }
+  },
+  "63a4edd7-cdf1-432b-b592-23e62508ae32": {
+    "doc_id": "63a4edd7-cdf1-432b-b592-23e62508ae32",
+    "title": "The CEO of Allbirds\u2019 new AI biz has a plan, but no team",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:19.683220",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:28.681768"
+    }
+  },
+  "e2108479-7ba5-468c-af08-bacb7925adc2": {
+    "doc_id": "e2108479-7ba5-468c-af08-bacb7925adc2",
+    "title": "Go eyes robotaxis and acquisitions after Japan\u2019s biggest IPO of 2026. Here\u2019s why it matters",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:19.743306",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:30.612247"
+    }
+  },
+  "6ea8f138-3824-4ed5-8d06-441649b262d5": {
+    "doc_id": "6ea8f138-3824-4ed5-8d06-441649b262d5",
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO\u00a0",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:19.782303",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:32.241394"
+    }
+  },
+  "0dcddbec-f491-44bc-aa12-4f891b1d8cfc": {
+    "doc_id": "0dcddbec-f491-44bc-aa12-4f891b1d8cfc",
+    "title": "He made your free video player run smoothly. Now he\u2019s doing that for robots.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:19.819633",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:34.237221"
+    }
+  },
+  "fe1ef965-43fe-4ae5-b44c-c2b2617d28a2": {
+    "doc_id": "fe1ef965-43fe-4ae5-b44c-c2b2617d28a2",
+    "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:19.863989",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:36.091010"
+    }
+  },
+  "2fd6fe24-6cee-4e2d-aebe-659d03e4f10a": {
+    "doc_id": "2fd6fe24-6cee-4e2d-aebe-659d03e4f10a",
+    "title": "Every fusion startup that has raised over $100M",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:19.905269",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:37.498200"
+    }
+  },
+  "c84ea47c-59ba-4b98-ad47-07b932c2f026": {
+    "doc_id": "c84ea47c-59ba-4b98-ad47-07b932c2f026",
+    "title": "Aura\u2019s impressive e-ink photo frame doesn\u2019t even look digital",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:19.972515",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-20T18:46:39.543696"
+    }
+  },
+  "4018bc35-51bf-4f36-9d2e-20038f23471a": {
+    "doc_id": "4018bc35-51bf-4f36-9d2e-20038f23471a",
+    "title": "Europe",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/europe",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-21T14:04:20.035797",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-21T12:59:48.166964"
+    }
+  },
+  "22e89284-2c6f-4b17-ad6d-0217e6e7a363": {
+    "doc_id": "22e89284-2c6f-4b17-ad6d-0217e6e7a363",
+    "title": "Africa",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/africa",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-21T14:04:20.082681",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-21T12:59:51.967207"
+    }
+  },
+  "3a85a416-af67-43d5-8654-b117737cc047": {
+    "doc_id": "3a85a416-af67-43d5-8654-b117737cc047",
+    "title": "US & Canada",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/us-canada",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-21T14:04:20.129314",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-21T12:59:54.074015"
+    }
+  },
+  "c5b51be7-47df-4179-9185-b827c8cf0c1c": {
+    "doc_id": "c5b51be7-47df-4179-9185-b827c8cf0c1c",
+    "title": "Latin America",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/latin_america",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-21T14:04:20.196560",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-21T12:59:57.378136"
+    }
+  },
+  "b688c2c5-6025-4a07-842a-eb047728a808": {
+    "doc_id": "b688c2c5-6025-4a07-842a-eb047728a808",
+    "title": "Middle East",
+    "source": "BBC",
+    "url": "https://www.bbc.com/news/world/middle_east",
+    "source_tag": "bbc",
+    "ingested_at": "2026-06-21T14:04:20.273072",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-21T12:59:58.730596"
+    }
+  },
+  "1cc66ff6-41d5-4d50-b4dd-d7c490324111": {
+    "doc_id": "1cc66ff6-41d5-4d50-b4dd-d7c490324111",
+    "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:20.341239",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-21T13:00:04.192267"
+    }
+  },
+  "02cba379-755b-43a3-b186-70b1a6352f43": {
+    "doc_id": "02cba379-755b-43a3-b186-70b1a6352f43",
+    "title": "In the Weights is your new AI-centric vanity search",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:20.399486",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-21T13:00:04.192267"
+    }
+  },
+  "c42afcc8-c767-4783-bcde-cae179f6e6d6": {
+    "doc_id": "c42afcc8-c767-4783-bcde-cae179f6e6d6",
+    "title": "Founders Fund\u2019s outlier bet on humanely killed fish",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:20.478700",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-21T13:00:04.193294"
+    }
+  },
+  "bc4839e2-d8d7-4c49-ba60-15238156c446": {
+    "doc_id": "bc4839e2-d8d7-4c49-ba60-15238156c446",
+    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:20.536446",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-21T13:00:04.193294"
+    }
+  },
+  "2b4a2223-fa81-409d-a18b-60d6741d44ea": {
+    "doc_id": "2b4a2223-fa81-409d-a18b-60d6741d44ea",
+    "title": "Every new iOS 27 feature that\u2019s worth knowing about",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:20.598980",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-21T13:00:04.193294"
+    }
+  },
+  "23b23ae1-c1c9-4254-b7c1-4212c461661c": {
+    "doc_id": "23b23ae1-c1c9-4254-b7c1-4212c461661c",
+    "title": "He made your free video player run smoothly. Now he\u2019s doing that for robots.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:20.649294",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-21T13:00:04.194317"
+    }
+  },
+  "7a4d211d-fd90-493d-85b2-0d761c536180": {
+    "doc_id": "7a4d211d-fd90-493d-85b2-0d761c536180",
+    "title": "From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:20.698168",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-21T13:00:04.194317"
+    }
+  },
+  "ed1b1fe9-438b-44ed-839f-d004a0304cc3": {
+    "doc_id": "ed1b1fe9-438b-44ed-839f-d004a0304cc3",
+    "title": "Go eyes robotaxis and acquisitions after Japan\u2019s biggest IPO of 2026 \u2014 here\u2019s why it matters",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:20.758961",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-21T13:00:04.195294"
+    }
+  },
+  "97076d8b-4102-4737-abe8-08ecb28e946f": {
+    "doc_id": "97076d8b-4102-4737-abe8-08ecb28e946f",
+    "title": "Aura\u2019s impressive e-ink photo frame doesn\u2019t even look digital",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:20.807195",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-21T13:00:04.195755"
+    }
+  },
+  "30b19f9b-5008-4fb1-9c77-809df15359d6": {
+    "doc_id": "30b19f9b-5008-4fb1-9c77-809df15359d6",
+    "title": "Every fusion startup that has raised over $100M",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+    "source_tag": "techcrunch",
+    "ingested_at": "2026-06-21T14:04:20.865111",
+    "processing_status": "ingested",
+    "extra": {
+      "scrape_timestamp": "2026-06-21T13:00:04.195755"
+    }
   }
 }
