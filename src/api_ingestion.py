@@ -62,10 +62,10 @@ def fetch_pushshift(subreddits=["technology", "worldnews"], size=10):
 
 def save_jsonl(records, path):
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w", encoding="utf-8") as f:
+    with open(path, "a", encoding="utf-8") as f:
         for r in records:
             f.write(json.dumps(r) + "\n")
-    print(f"Saved {len(records)} records to {path}")
+    print(f"Appended {len(records)} records to {path}")
 
 if __name__ == "__main__":
     news = fetch_newsapi()
