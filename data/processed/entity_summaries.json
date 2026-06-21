@@ -1,10 +1,2107 @@
 [
   {
-    "doc_id": NaN,
-    "total_entity_mentions": 0,
-    "unique_entities": 0,
-    "entities_by_type": {},
-    "top_entities": {},
+    "doc_id": "20260621_180750_3",
+    "total_entity_mentions": 23,
+    "unique_entities": 15,
+    "entities_by_type": {
+      "DATE": [
+        "a day",
+        "Tuesday"
+      ],
+      "GPE": [
+        "US",
+        "Iran",
+        "US",
+        "Iran",
+        "Lebanon",
+        "Washington",
+        "Tehran",
+        "Iran",
+        "Switzerland",
+        "Iran",
+        "US",
+        "Israel",
+        "Lebanon",
+        "US"
+      ],
+      "ORG": [
+        "BBC",
+        "Trump",
+        "Hezbollah",
+        "Trump"
+      ],
+      "PERSON": [
+        "JD Vance",
+        "Mojtaba Khamenei",
+        "Benjamin Netanyahu"
+      ]
+    },
+    "top_entities": {
+      "US": 4,
+      "Iran": 4,
+      "Lebanon": 2,
+      "Trump": 2,
+      "a day": 1
+    },
+    "relationships": [
+      {
+        "subject": "The agreement",
+        "relation": "other",
+        "object": "concerns"
+      },
+      {
+        "subject": "continued clashes",
+        "relation": "other",
+        "object": "the deal"
+      },
+      {
+        "subject": "the US",
+        "relation": "other",
+        "object": "a deal"
+      },
+      {
+        "subject": "the claims",
+        "relation": "other",
+        "object": "a victory"
+      },
+      {
+        "subject": "JD Vance",
+        "relation": "other",
+        "object": "Switzerland"
+      },
+      {
+        "subject": "it",
+        "relation": "other",
+        "object": "Hezbollah"
+      },
+      {
+        "subject": "he",
+        "relation": "other",
+        "object": "the deal"
+      },
+      {
+        "subject": "it",
+        "relation": "other",
+        "object": "assurances"
+      },
+      {
+        "subject": "the Iranian regime",
+        "relation": "other",
+        "object": "the war"
+      },
+      {
+        "subject": "Three Iranian tankers",
+        "relation": "other",
+        "object": "the US blockade line"
+      },
+      {
+        "subject": "Three Iranian tankers",
+        "relation": "other",
+        "object": "the Gulf"
+      }
+    ],
+    "relationship_count": 11
+  },
+  {
+    "doc_id": "20260621_180750_12",
+    "total_entity_mentions": 2,
+    "unique_entities": 2,
+    "entities_by_type": {
+      "ORG": [
+        "Latest \n \n\n AI",
+        "Apps \n \n\n Biotech & Health"
+      ]
+    },
+    "top_entities": {
+      "Latest \n \n\n AI": 1,
+      "Apps \n \n\n Biotech & Health": 1
+    },
+    "relationships": [],
+    "relationship_count": 0
+  },
+  {
+    "doc_id": "20260621_180750_2",
+    "total_entity_mentions": 27,
+    "unique_entities": 26,
+    "entities_by_type": {
+      "EVENT": [
+        "Super Bowl",
+        "the World Cup"
+      ],
+      "GPE": [
+        "Switzerland",
+        "Qatar",
+        "Canada",
+        "dreamland",
+        "Iran",
+        "US",
+        "Washington",
+        "Tehran",
+        "Iran",
+        "Chicago"
+      ],
+      "MONEY": [
+        "6",
+        "0",
+        "2028",
+        "747",
+        "8"
+      ],
+      "ORG": [
+        "Hezbollah",
+        "Boeing",
+        "BBC",
+        "Burrows",
+        "the Big Bang Theory"
+      ],
+      "PERSON": [
+        "JD Vance",
+        "Alex Freeman",
+        "Isma\u00ebl Kon\u00e9's",
+        "Cheers",
+        "Grace"
+      ]
+    },
+    "top_entities": {
+      "Iran": 2,
+      "JD Vance": 1,
+      "Switzerland": 1,
+      "Hezbollah": 1,
+      "Alex Freeman": 1
+    },
+    "relationships": [
+      {
+        "subject": "JD Vance",
+        "relation": "other",
+        "object": "Switzerland"
+      },
+      {
+        "subject": "it",
+        "relation": "other",
+        "object": "Hezbollah"
+      },
+      {
+        "subject": "internet, media and government restrictions",
+        "relation": "other",
+        "object": "casualty"
+      },
+      {
+        "subject": "the 6-0 thrashing",
+        "relation": "other",
+        "object": "Canada fans"
+      },
+      {
+        "subject": "the 6-0 thrashing",
+        "relation": "other",
+        "object": "dreamland"
+      },
+      {
+        "subject": "His fierce defence",
+        "relation": "other",
+        "object": "speculation intensifies"
+      },
+      {
+        "subject": "it",
+        "relation": "other",
+        "object": "a final test phase"
+      },
+      {
+        "subject": "the claims",
+        "relation": "other",
+        "object": "a victory"
+      },
+      {
+        "subject": "Burrows",
+        "relation": "other",
+        "object": "more than 1,000 episodes"
+      },
+      {
+        "subject": "Iran's involvement",
+        "relation": "other",
+        "object": "uncertainty"
+      },
+      {
+        "subject": "The couple",
+        "relation": "other",
+        "object": "a site"
+      },
+      {
+        "subject": "The couple",
+        "relation": "other",
+        "object": "Chicago"
+      },
+      {
+        "subject": "the former president",
+        "relation": "other",
+        "object": "a \"celebration"
+      }
+    ],
+    "relationship_count": 13
+  },
+  {
+    "doc_id": "20260621_180750_7",
+    "total_entity_mentions": 15,
+    "unique_entities": 15,
+    "entities_by_type": {
+      "DATE": [
+        "recent years",
+        "the coming days"
+      ],
+      "EVENT": [
+        "World Cup"
+      ],
+      "GPE": [
+        "Hungary",
+        "UK"
+      ],
+      "MONEY": [
+        "2026"
+      ],
+      "ORG": [
+        "Church"
+      ],
+      "PERSON": [
+        "Emma Barnett",
+        "John Simpson",
+        "SpaceX",
+        "Elon Musk's",
+        "John Healey's",
+        "Laura Kuenssberg",
+        "Faisal Islam",
+        "Henry Nowak"
+      ]
+    },
+    "top_entities": {
+      "Emma Barnett": 1,
+      "John Simpson": 1,
+      "Church": 1,
+      "Hungary": 1,
+      "SpaceX": 1
+    },
+    "relationships": [
+      {
+        "subject": "Emma Barnett",
+        "relation": "other",
+        "object": "the most thought-provoking deep reads"
+      },
+      {
+        "subject": "Hungary's pronatalist approach",
+        "relation": "other",
+        "object": "an early rise"
+      },
+      {
+        "subject": "it",
+        "relation": "other",
+        "object": "other countries"
+      },
+      {
+        "subject": "SpaceX",
+        "relation": "other",
+        "object": "a stock market debut"
+      },
+      {
+        "subject": "that",
+        "relation": "other",
+        "object": "the company"
+      },
+      {
+        "subject": "High Streets",
+        "relation": "other",
+        "object": "recent years"
+      },
+      {
+        "subject": "this",
+        "relation": "other",
+        "object": "us"
+      },
+      {
+        "subject": "this",
+        "relation": "other",
+        "object": "What"
+      },
+      {
+        "subject": "this",
+        "relation": "other",
+        "object": "the UK"
+      },
+      {
+        "subject": "this tournament",
+        "relation": "other",
+        "object": "our changing global economy"
+      },
+      {
+        "subject": "more",
+        "relation": "other",
+        "object": "the coming days"
+      },
+      {
+        "subject": "Experts",
+        "relation": "other",
+        "object": "the long-term impact"
+      },
+      {
+        "subject": "The police response",
+        "relation": "other",
+        "object": "a heated transatlantic debate"
+      }
+    ],
+    "relationship_count": 13
+  },
+  {
+    "doc_id": "20260621_180750_10",
+    "total_entity_mentions": 2,
+    "unique_entities": 2,
+    "entities_by_type": {
+      "ORG": [
+        "Latest \n \n\n AI",
+        "Apps \n \n\n Biotech & Health"
+      ]
+    },
+    "top_entities": {
+      "Latest \n \n\n AI": 1,
+      "Apps \n \n\n Biotech & Health": 1
+    },
+    "relationships": [],
+    "relationship_count": 0
+  },
+  {
+    "doc_id": "20260621_180750_13",
+    "total_entity_mentions": 2,
+    "unique_entities": 2,
+    "entities_by_type": {
+      "ORG": [
+        "Latest \n \n\n AI",
+        "Apps \n \n\n Biotech & Health"
+      ]
+    },
+    "top_entities": {
+      "Latest \n \n\n AI": 1,
+      "Apps \n \n\n Biotech & Health": 1
+    },
+    "relationships": [],
+    "relationship_count": 0
+  },
+  {
+    "doc_id": "20260621_180750_14",
+    "total_entity_mentions": 2,
+    "unique_entities": 2,
+    "entities_by_type": {
+      "ORG": [
+        "Latest \n \n\n AI",
+        "Apps \n \n\n Biotech & Health"
+      ]
+    },
+    "top_entities": {
+      "Latest \n \n\n AI": 1,
+      "Apps \n \n\n Biotech & Health": 1
+    },
+    "relationships": [],
+    "relationship_count": 0
+  },
+  {
+    "doc_id": "20260621_180750_15",
+    "total_entity_mentions": 2,
+    "unique_entities": 2,
+    "entities_by_type": {
+      "ORG": [
+        "Latest \n \n\n AI",
+        "Apps \n \n\n Biotech & Health"
+      ]
+    },
+    "top_entities": {
+      "Latest \n \n\n AI": 1,
+      "Apps \n \n\n Biotech & Health": 1
+    },
+    "relationships": [],
+    "relationship_count": 0
+  },
+  {
+    "doc_id": "20260621_180750_16",
+    "total_entity_mentions": 2,
+    "unique_entities": 2,
+    "entities_by_type": {
+      "ORG": [
+        "Latest \n \n\n AI",
+        "Apps \n \n\n Biotech & Health"
+      ]
+    },
+    "top_entities": {
+      "Latest \n \n\n AI": 1,
+      "Apps \n \n\n Biotech & Health": 1
+    },
+    "relationships": [],
+    "relationship_count": 0
+  },
+  {
+    "doc_id": "20260621_180750_9",
+    "total_entity_mentions": 19,
+    "unique_entities": 17,
+    "entities_by_type": {
+      "DATE": [
+        "last year",
+        "Sunday"
+      ],
+      "EVENT": [
+        "World Cup",
+        "World Cup"
+      ],
+      "GPE": [
+        "Bolivia",
+        "US",
+        "US",
+        "Venezuela",
+        "Ghana",
+        "Panama",
+        "Rio de Janeiro"
+      ],
+      "MONEY": [
+        "58",
+        "3",
+        "1"
+      ],
+      "ORG": [
+        "Viva Wyndham Dominicus Beach",
+        "Bayahibe",
+        "Guayaquil",
+        "General Electric"
+      ],
+      "PERSON": [
+        "Eduardo Bolsonaro"
+      ]
+    },
+    "top_entities": {
+      "US": 2,
+      "World Cup": 2,
+      "Viva Wyndham Dominicus Beach": 1,
+      "Bayahibe": 1,
+      "Guayaquil": 1
+    },
+    "relationships": [
+      {
+        "subject": "Nearly 1,700 people",
+        "relation": "other",
+        "object": "the huge blaze"
+      },
+      {
+        "subject": "The gunmen",
+        "relation": "other",
+        "object": "their weapons"
+      },
+      {
+        "subject": "The gunmen",
+        "relation": "other",
+        "object": "flowers"
+      },
+      {
+        "subject": "Cuban officials",
+        "relation": "other",
+        "object": "sanctions"
+      },
+      {
+        "subject": "Eduardo Bolsonaro",
+        "relation": "other",
+        "object": "the conviction"
+      },
+      {
+        "subject": "Colombia",
+        "relation": "other",
+        "object": "World Cup"
+      },
+      {
+        "subject": "Ghana",
+        "relation": "other",
+        "object": "95th-minute winner"
+      }
+    ],
+    "relationship_count": 7
+  },
+  {
+    "doc_id": "20260621_180750_17",
+    "total_entity_mentions": 2,
+    "unique_entities": 2,
+    "entities_by_type": {
+      "ORG": [
+        "Latest \n \n\n AI",
+        "Apps \n \n\n Biotech & Health"
+      ]
+    },
+    "top_entities": {
+      "Latest \n \n\n AI": 1,
+      "Apps \n \n\n Biotech & Health": 1
+    },
+    "relationships": [],
+    "relationship_count": 0
+  },
+  {
+    "doc_id": "20260621_180750_18",
+    "total_entity_mentions": 2,
+    "unique_entities": 2,
+    "entities_by_type": {
+      "ORG": [
+        "Latest \n \n\n AI",
+        "Apps \n \n\n Biotech & Health"
+      ]
+    },
+    "top_entities": {
+      "Latest \n \n\n AI": 1,
+      "Apps \n \n\n Biotech & Health": 1
+    },
+    "relationships": [],
+    "relationship_count": 0
+  },
+  {
+    "doc_id": "20260621_180750_19",
+    "total_entity_mentions": 2,
+    "unique_entities": 2,
+    "entities_by_type": {
+      "ORG": [
+        "Latest \n \n\n AI",
+        "Apps \n \n\n Biotech & Health"
+      ]
+    },
+    "top_entities": {
+      "Latest \n \n\n AI": 1,
+      "Apps \n \n\n Biotech & Health": 1
+    },
+    "relationships": [],
+    "relationship_count": 0
+  },
+  {
+    "doc_id": "20260621_180750_4",
+    "total_entity_mentions": 18,
+    "unique_entities": 16,
+    "entities_by_type": {
+      "DATE": [
+        "summer"
+      ],
+      "EVENT": [
+        "World War Two"
+      ],
+      "GPE": [
+        "Australia",
+        "Sydney",
+        "Sydney",
+        "London",
+        "India",
+        "Japan",
+        "Japan"
+      ],
+      "MONEY": [
+        "400",
+        "40"
+      ],
+      "ORG": [
+        "BBC",
+        "Border Force",
+        "Home Office",
+        "Telegram"
+      ],
+      "PERSON": [
+        "H5N1",
+        "Shinjiro Koizumi",
+        "Pavel Durov"
+      ]
+    },
+    "top_entities": {
+      "Sydney": 2,
+      "Japan": 2,
+      "Australia": 1,
+      "H5N1": 1,
+      "BBC": 1
+    },
+    "relationships": [
+      {
+        "subject": "The BBC",
+        "relation": "other",
+        "object": "Sydney locals"
+      },
+      {
+        "subject": "they",
+        "relation": "other",
+        "object": "the newly announced, longest ever commercial flight"
+      },
+      {
+        "subject": "they",
+        "relation": "other",
+        "object": "London"
+      },
+      {
+        "subject": "One",
+        "relation": "other",
+        "object": "his access"
+      },
+      {
+        "subject": "Trump",
+        "relation": "other",
+        "object": "the announcement"
+      },
+      {
+        "subject": "Trump",
+        "relation": "other",
+        "object": "chat"
+      },
+      {
+        "subject": "Some",
+        "relation": "other",
+        "object": "a double standard"
+      },
+      {
+        "subject": "Some",
+        "relation": "other",
+        "object": "Japanese men"
+      },
+      {
+        "subject": "who",
+        "relation": "other",
+        "object": "public"
+      },
+      {
+        "subject": "their wives",
+        "relation": "other",
+        "object": "all the housework"
+      },
+      {
+        "subject": "they",
+        "relation": "other",
+        "object": "a huge cost"
+      },
+      {
+        "subject": "that",
+        "relation": "other",
+        "object": "it"
+      },
+      {
+        "subject": "that",
+        "relation": "other",
+        "object": "World War"
+      },
+      {
+        "subject": "Japan",
+        "relation": "other",
+        "object": "record summer temperatures"
+      },
+      {
+        "subject": "Telegram CEO Pavel Durov",
+        "relation": "other",
+        "object": "the ban"
+      },
+      {
+        "subject": "it",
+        "relation": "other",
+        "object": "millions"
+      },
+      {
+        "subject": "Police",
+        "relation": "other",
+        "object": "nine people"
+      },
+      {
+        "subject": "more than 400 cats",
+        "relation": "other",
+        "object": "slaughter"
+      },
+      {
+        "subject": "40",
+        "relation": "other",
+        "object": "their owners"
+      }
+    ],
+    "relationship_count": 19
+  },
+  {
+    "doc_id": "20260621_180750_27",
+    "total_entity_mentions": 1,
+    "unique_entities": 1,
+    "entities_by_type": {
+      "ORG": [
+        "Poseidon"
+      ]
+    },
+    "top_entities": {
+      "Poseidon": 1
+    },
+    "relationships": [
+      {
+        "subject": "a refrigerator-sized robot",
+        "relation": "other",
+        "object": "fish"
+      }
+    ],
+    "relationship_count": 1
+  },
+  {
+    "doc_id": "20260621_180750_20",
+    "total_entity_mentions": 24,
+    "unique_entities": 20,
+    "entities_by_type": {
+      "DATE": [
+        "last week",
+        "Wednesday",
+        "Wednesday"
+      ],
+      "GPE": [
+        "US",
+        "G7",
+        "Ukraine",
+        "Belgrade",
+        "US",
+        "US",
+        "Morocco",
+        "Johannes Natland",
+        "Primorsk",
+        "Catalonia"
+      ],
+      "MONEY": [
+        "13",
+        "2023",
+        "2023",
+        "81",
+        "200",
+        "19",
+        "63"
+      ],
+      "ORG": [
+        "Channel"
+      ],
+      "PERSON": [
+        "Meloni",
+        "Vladislav Ribnikar school",
+        "Achraf Hakimi"
+      ]
+    },
+    "top_entities": {
+      "US": 3,
+      "2023": 2,
+      "Wednesday": 2,
+      "Meloni": 1,
+      "G7": 1
+    },
+    "relationships": [
+      {
+        "subject": "The US president",
+        "relation": "other",
+        "object": "Meloni's popularity"
+      },
+      {
+        "subject": "she",
+        "relation": "other",
+        "object": "a photo"
+      },
+      {
+        "subject": "he",
+        "relation": "other",
+        "object": "eight girls"
+      },
+      {
+        "subject": "he",
+        "relation": "other",
+        "object": "2023"
+      },
+      {
+        "subject": "The US defence secretary's move",
+        "relation": "other",
+        "object": "a US decision"
+      },
+      {
+        "subject": "Morocco captain Achraf Hakimi",
+        "relation": "other",
+        "object": "trial"
+      },
+      {
+        "subject": "Morocco captain Achraf Hakimi",
+        "relation": "other",
+        "object": "accusations"
+      },
+      {
+        "subject": "almost 200 Ukrainian drones",
+        "relation": "founded",
+        "object": "an area"
+      },
+      {
+        "subject": "Johannes Natland",
+        "relation": "other",
+        "object": "custody"
+      },
+      {
+        "subject": "which",
+        "relation": "other",
+        "object": "port"
+      },
+      {
+        "subject": "which",
+        "relation": "other",
+        "object": "Primorsk"
+      },
+      {
+        "subject": "Forwarder",
+        "relation": "other",
+        "object": "the Channel"
+      },
+      {
+        "subject": "Forwarder",
+        "relation": "other",
+        "object": "Wednesday evening"
+      },
+      {
+        "subject": "old",
+        "relation": "other",
+        "object": "the Palau de Noguera area"
+      },
+      {
+        "subject": "old",
+        "relation": "other",
+        "object": "Wednesday"
+      }
+    ],
+    "relationship_count": 15
+  },
+  {
+    "doc_id": "20260621_180750_22",
+    "total_entity_mentions": 30,
+    "unique_entities": 26,
+    "entities_by_type": {
+      "EVENT": [
+        "Super Bowl"
+      ],
+      "GPE": [
+        "US",
+        "Iran",
+        "Tehran",
+        "Lebanon",
+        "US",
+        "G7",
+        "Washington",
+        "Tehran",
+        "Iran",
+        "US",
+        "Switzerland",
+        "Qatar",
+        "Canada"
+      ],
+      "MONEY": [
+        "2028",
+        "747",
+        "8",
+        "6",
+        "0"
+      ],
+      "ORG": [
+        "BBC",
+        "Boeing",
+        "Hezbollah",
+        "Burrows",
+        "the Big Bang Theory"
+      ],
+      "PERSON": [
+        "Meloni",
+        "Alex Freeman",
+        "JD Vance",
+        "Isma\u00ebl Kon\u00e9's",
+        "Cheers",
+        "Grace"
+      ]
+    },
+    "top_entities": {
+      "US": 3,
+      "Iran": 2,
+      "Tehran": 2,
+      "Lebanon": 1,
+      "Meloni": 1
+    },
+    "relationships": [
+      {
+        "subject": "The US",
+        "relation": "other",
+        "object": "Iran's claim"
+      },
+      {
+        "subject": "The US president",
+        "relation": "other",
+        "object": "Meloni's popularity"
+      },
+      {
+        "subject": "she",
+        "relation": "other",
+        "object": "a photo"
+      },
+      {
+        "subject": "the claims",
+        "relation": "other",
+        "object": "a victory"
+      },
+      {
+        "subject": "internet, media and government restrictions",
+        "relation": "other",
+        "object": "casualty"
+      },
+      {
+        "subject": "His fierce defence",
+        "relation": "other",
+        "object": "speculation intensifies"
+      },
+      {
+        "subject": "it",
+        "relation": "other",
+        "object": "a final test phase"
+      },
+      {
+        "subject": "JD Vance",
+        "relation": "other",
+        "object": "Switzerland"
+      },
+      {
+        "subject": "it",
+        "relation": "other",
+        "object": "Hezbollah"
+      },
+      {
+        "subject": "the 6-0 thrashing",
+        "relation": "other",
+        "object": "Canada fans"
+      },
+      {
+        "subject": "the 6-0 thrashing",
+        "relation": "other",
+        "object": "dreamland"
+      },
+      {
+        "subject": "Burrows",
+        "relation": "other",
+        "object": "more than 1,000 episodes"
+      }
+    ],
+    "relationship_count": 12
+  },
+  {
+    "doc_id": "20260621_180750_21",
+    "total_entity_mentions": 22,
+    "unique_entities": 19,
+    "entities_by_type": {
+      "DATE": [
+        "second-half",
+        "six-month",
+        "two years"
+      ],
+      "EVENT": [
+        "the World Cup",
+        "the World Cup",
+        "the World Cup",
+        "World Cup",
+        "the World Cup"
+      ],
+      "GPE": [
+        "Germany",
+        "Tunisia",
+        "Japan",
+        "Monterrey",
+        "Scotland",
+        "Morocco"
+      ],
+      "MONEY": [
+        "71",
+        "10"
+      ],
+      "ORG": [
+        "Emmerson Mnangagwa's",
+        "BBC Sport"
+      ],
+      "PERSON": [
+        "Deniz Undav",
+        "Diezani Alison-Madueke",
+        "Markos",
+        "Ivory Coast Yan Diomande"
+      ]
+    },
+    "top_entities": {
+      "the World Cup": 4,
+      "Deniz Undav": 1,
+      "Germany": 1,
+      "second-half": 1,
+      "Diezani Alison-Madueke": 1
+    },
+    "relationships": [
+      {
+        "subject": "More than eight million South Africans",
+        "relation": "other",
+        "object": "HIV"
+      },
+      {
+        "subject": "Deniz Undav",
+        "relation": "other",
+        "object": "Germany"
+      },
+      {
+        "subject": "Deniz Undav",
+        "relation": "other",
+        "object": "his second-half"
+      },
+      {
+        "subject": "Deniz Undav",
+        "relation": "other",
+        "object": "double"
+      },
+      {
+        "subject": "The proposal",
+        "relation": "other",
+        "object": "Emmerson Mnangagwa's term"
+      },
+      {
+        "subject": "The proposal",
+        "relation": "other",
+        "object": "two years"
+      },
+      {
+        "subject": "Health facilities",
+        "relation": "other",
+        "object": "attack"
+      },
+      {
+        "subject": "Health facilities",
+        "relation": "other",
+        "object": "the current outbreak"
+      },
+      {
+        "subject": "Health facilities",
+        "relation": "other",
+        "object": "a result"
+      },
+      {
+        "subject": "Markos's beloved hen",
+        "relation": "other",
+        "object": "any treatments"
+      },
+      {
+        "subject": "he",
+        "relation": "other",
+        "object": "the only thing"
+      },
+      {
+        "subject": "Scotland",
+        "relation": "other",
+        "object": "just 71 seconds"
+      },
+      {
+        "subject": "historic knock-out place",
+        "relation": "other",
+        "object": "their own hands"
+      },
+      {
+        "subject": "African teams",
+        "relation": "other",
+        "object": "the World Cup"
+      }
+    ],
+    "relationship_count": 14
+  },
+  {
+    "doc_id": "20260621_180750_28",
+    "total_entity_mentions": 2,
+    "unique_entities": 2,
+    "entities_by_type": {
+      "GPE": [
+        "Jumper"
+      ],
+      "PRODUCT": [
+        "Google DeepMind"
+      ]
+    },
+    "top_entities": {
+      "Jumper": 1,
+      "Google DeepMind": 1
+    },
+    "relationships": [],
+    "relationship_count": 0
+  },
+  {
+    "doc_id": "20260621_180750_23",
+    "total_entity_mentions": 19,
+    "unique_entities": 16,
+    "entities_by_type": {
+      "DATE": [
+        "weeks",
+        "last year"
+      ],
+      "EVENT": [
+        "World Cup",
+        "World Cup"
+      ],
+      "GPE": [
+        "Bolivia",
+        "US",
+        "Venezuela",
+        "Bolivia",
+        "US",
+        "Ghana",
+        "Panama"
+      ],
+      "MONEY": [
+        "58",
+        "3",
+        "1"
+      ],
+      "ORG": [
+        "Viva Wyndham Dominicus Beach",
+        "Bayahibe",
+        "General Electric",
+        "Guayaquil"
+      ],
+      "PERSON": [
+        "Eduardo Bolsonaro"
+      ]
+    },
+    "top_entities": {
+      "Bolivia": 2,
+      "US": 2,
+      "World Cup": 2,
+      "weeks": 1,
+      "Viva Wyndham Dominicus Beach": 1
+    },
+    "relationships": [
+      {
+        "subject": "The move",
+        "relation": "other",
+        "object": "weeks"
+      },
+      {
+        "subject": "that",
+        "relation": "other",
+        "object": "a shortage"
+      },
+      {
+        "subject": "Nearly 1,700 people",
+        "relation": "other",
+        "object": "the huge blaze"
+      },
+      {
+        "subject": "Cuban officials",
+        "relation": "other",
+        "object": "sanctions"
+      },
+      {
+        "subject": "The gunmen",
+        "relation": "other",
+        "object": "their weapons"
+      },
+      {
+        "subject": "The gunmen",
+        "relation": "other",
+        "object": "flowers"
+      },
+      {
+        "subject": "Eduardo Bolsonaro",
+        "relation": "other",
+        "object": "the conviction"
+      },
+      {
+        "subject": "Colombia",
+        "relation": "other",
+        "object": "World Cup"
+      },
+      {
+        "subject": "Ghana",
+        "relation": "other",
+        "object": "95th-minute winner"
+      }
+    ],
+    "relationship_count": 9
+  },
+  {
+    "doc_id": "20260621_180750_24",
+    "total_entity_mentions": 24,
+    "unique_entities": 16,
+    "entities_by_type": {
+      "DATE": [
+        "a day",
+        "years",
+        "several days"
+      ],
+      "GPE": [
+        "US",
+        "Iran",
+        "Tehran",
+        "Lebanon",
+        "US",
+        "Iran",
+        "Lebanon",
+        "Switzerland",
+        "Lebanon",
+        "US",
+        "Iran",
+        "Iran"
+      ],
+      "MONEY": [
+        "20"
+      ],
+      "ORG": [
+        "Hamas",
+        "Hezbollah",
+        "Hezbollah",
+        "Trump"
+      ],
+      "PERSON": [
+        "Ahmed Wishah",
+        "JD Vance",
+        "Mona Khalil",
+        "Mojtaba Khamenei"
+      ]
+    },
+    "top_entities": {
+      "Iran": 4,
+      "US": 3,
+      "Lebanon": 3,
+      "Hezbollah": 2,
+      "Tehran": 1
+    },
+    "relationships": [
+      {
+        "subject": "The US",
+        "relation": "other",
+        "object": "Iran's claim"
+      },
+      {
+        "subject": "The Israeli military",
+        "relation": "other",
+        "object": "Ahmed Wishah"
+      },
+      {
+        "subject": "the US",
+        "relation": "other",
+        "object": "a deal"
+      },
+      {
+        "subject": "JD Vance",
+        "relation": "other",
+        "object": "Switzerland"
+      },
+      {
+        "subject": "it",
+        "relation": "other",
+        "object": "Hezbollah"
+      },
+      {
+        "subject": "she",
+        "relation": "other",
+        "object": "years"
+      },
+      {
+        "subject": "Mona Khalil",
+        "relation": "other",
+        "object": "several days"
+      },
+      {
+        "subject": "Hezbollah",
+        "relation": "other",
+        "object": "Israeli troops"
+      },
+      {
+        "subject": "The agreement",
+        "relation": "other",
+        "object": "concerns"
+      },
+      {
+        "subject": "continued clashes",
+        "relation": "other",
+        "object": "the deal"
+      },
+      {
+        "subject": "he",
+        "relation": "other",
+        "object": "the deal"
+      },
+      {
+        "subject": "it",
+        "relation": "other",
+        "object": "assurances"
+      },
+      {
+        "subject": "the Iranian regime",
+        "relation": "other",
+        "object": "the war"
+      }
+    ],
+    "relationship_count": 13
+  },
+  {
+    "doc_id": "20260621_180750_29",
+    "total_entity_mentions": 4,
+    "unique_entities": 4,
+    "entities_by_type": {
+      "MONEY": [
+        "27"
+      ],
+      "ORG": [
+        "Apple",
+        "Siri AI",
+        "Apple Intelligence"
+      ]
+    },
+    "top_entities": {
+      "Apple": 1,
+      "Siri AI": 1,
+      "Apple Intelligence": 1,
+      "27": 1
+    },
+    "relationships": [],
+    "relationship_count": 0
+  },
+  {
+    "doc_id": "20260621_180750_30",
+    "total_entity_mentions": 1,
+    "unique_entities": 1,
+    "entities_by_type": {
+      "ORG": [
+        "Jean-Baptiste Kempf"
+      ]
+    },
+    "top_entities": {
+      "Jean-Baptiste Kempf": 1
+    },
+    "relationships": [
+      {
+        "subject": "French serial entrepreneur",
+        "relation": "other",
+        "object": "Kyber"
+      }
+    ],
+    "relationship_count": 1
+  },
+  {
+    "doc_id": "20260621_180750_31",
+    "total_entity_mentions": 3,
+    "unique_entities": 3,
+    "entities_by_type": {
+      "DATE": [
+        "the last"
+      ],
+      "MONEY": [
+        "30"
+      ],
+      "PERSON": [
+        "Anthropic"
+      ]
+    },
+    "top_entities": {
+      "the last": 1,
+      "30": 1,
+      "Anthropic": 1
+    },
+    "relationships": [
+      {
+        "subject": "it",
+        "relation": "works_at",
+        "object": "Anthropic's cybersecurity model Mythos"
+      }
+    ],
+    "relationship_count": 1
+  },
+  {
+    "doc_id": "20260621_180750_33",
+    "total_entity_mentions": 3,
+    "unique_entities": 2,
+    "entities_by_type": {
+      "ORG": [
+        "iCloud"
+      ],
+      "PERSON": [
+        "Aura",
+        "Aura"
+      ]
+    },
+    "top_entities": {
+      "Aura": 2,
+      "iCloud": 1
+    },
+    "relationships": [
+      {
+        "subject": "All",
+        "relation": "other",
+        "object": "the Aura app"
+      },
+      {
+        "subject": "you",
+        "relation": "other",
+        "object": "photos"
+      },
+      {
+        "subject": "you",
+        "relation": "other",
+        "object": "your phone, web, email"
+      }
+    ],
+    "relationship_count": 3
+  },
+  {
+    "doc_id": "20260621_180750_34",
+    "total_entity_mentions": 1,
+    "unique_entities": 1,
+    "entities_by_type": {
+      "MONEY": [
+        "7.1"
+      ]
+    },
+    "top_entities": {
+      "7.1": 1
+    },
+    "relationships": [
+      {
+        "subject": "Fusion startups",
+        "relation": "other",
+        "object": "billion"
+      },
+      {
+        "subject": "Fusion startups",
+        "relation": "other",
+        "object": "date"
+      },
+      {
+        "subject": "the majority",
+        "relation": "other",
+        "object": "a handful"
+      }
+    ],
+    "relationship_count": 3
+  },
+  {
+    "doc_id": "20260621_180750_32",
+    "total_entity_mentions": 4,
+    "unique_entities": 3,
+    "entities_by_type": {
+      "DATE": [
+        "this year"
+      ],
+      "GPE": [
+        "Japan",
+        "Japan"
+      ],
+      "ORG": [
+        "IPO"
+      ]
+    },
+    "top_entities": {
+      "Japan": 2,
+      "IPO": 1,
+      "this year": 1
+    },
+    "relationships": [
+      {
+        "subject": "Go",
+        "relation": "other",
+        "object": "more"
+      },
+      {
+        "subject": "It",
+        "relation": "other",
+        "object": "the taxi-hailing app"
+      },
+      {
+        "subject": "It",
+        "relation": "other",
+        "object": "Japan's shortage"
+      },
+      {
+        "subject": "It",
+        "relation": "other",
+        "object": "the capital"
+      }
+    ],
+    "relationship_count": 4
+  },
+  {
+    "doc_id": "20260621_180750_0",
+    "total_entity_mentions": 17,
+    "unique_entities": 17,
+    "entities_by_type": {
+      "DATE": [
+        "this week",
+        "summer",
+        "year",
+        "July"
+      ],
+      "GPE": [
+        "Bradford",
+        "Beijing",
+        "Oxfordshire"
+      ],
+      "MONEY": [
+        "88",
+        "10",
+        "19"
+      ],
+      "ORG": [
+        "BBC Scotland News",
+        "Swindon Arts Fringe",
+        "the Museum of Liverpool",
+        "the Isle of Wight"
+      ],
+      "PERSON": [
+        "Trump",
+        "Xi Jinping",
+        "Bob Howells"
+      ]
+    },
+    "top_entities": {
+      "Bradford": 1,
+      "88": 1,
+      "10": 1,
+      "Trump": 1,
+      "Xi Jinping": 1
+    },
+    "relationships": [
+      {
+        "subject": "who",
+        "relation": "other",
+        "object": "88"
+      },
+      {
+        "subject": "A short fashion project",
+        "relation": "other",
+        "object": "a 10-year odyssey"
+      },
+      {
+        "subject": "Designers",
+        "relation": "other",
+        "object": "their gardens"
+      },
+      {
+        "subject": "Kestrels",
+        "relation": "other",
+        "object": "the camera"
+      },
+      {
+        "subject": "Kestrels",
+        "relation": "other",
+        "object": "astronomical summer starts"
+      }
+    ],
+    "relationship_count": 5
+  },
+  {
+    "doc_id": "20260621_180750_8",
+    "total_entity_mentions": 21,
+    "unique_entities": 20,
+    "entities_by_type": {
+      "DATE": [
+        "May"
+      ],
+      "GPE": [
+        "Sydney",
+        "Sydney",
+        "London",
+        "UK",
+        "Australia",
+        "India",
+        "Bangladesh",
+        "Netherlands",
+        "Tanzania",
+        "Turkey"
+      ],
+      "MONEY": [
+        "34",
+        "320"
+      ],
+      "ORG": [
+        "Emaa Hussen",
+        "BBC",
+        "Ofcom",
+        "the Women's T20 World Cup",
+        "Farmers"
+      ],
+      "PERSON": [
+        "H5N1",
+        "Kyle Sandilands",
+        "Irankunda"
+      ]
+    },
+    "top_entities": {
+      "Sydney": 2,
+      "Emaa Hussen": 1,
+      "34": 1,
+      "320": 1,
+      "BBC": 1
+    },
+    "relationships": [
+      {
+        "subject": "Emaa Hussen",
+        "relation": "other",
+        "object": "life"
+      },
+      {
+        "subject": "Emaa Hussen",
+        "relation": "other",
+        "object": "prison"
+      },
+      {
+        "subject": "The BBC",
+        "relation": "other",
+        "object": "Sydney locals"
+      },
+      {
+        "subject": "they",
+        "relation": "other",
+        "object": "the newly announced, longest ever commercial flight"
+      },
+      {
+        "subject": "The claims",
+        "relation": "other",
+        "object": "a response"
+      },
+      {
+        "subject": "who",
+        "relation": "other",
+        "object": "them"
+      },
+      {
+        "subject": "13,000 southern elephant seal pups",
+        "relation": "other",
+        "object": "the H5N1 strain"
+      },
+      {
+        "subject": "Australia",
+        "relation": "other",
+        "object": "their dominance"
+      },
+      {
+        "subject": "Australia",
+        "relation": "other",
+        "object": "comfortable wins"
+      },
+      {
+        "subject": "Kyle Sandilands",
+        "relation": "other",
+        "object": "spat"
+      },
+      {
+        "subject": "who",
+        "relation": "other",
+        "object": "him"
+      },
+      {
+        "subject": "Nestory Irankunda",
+        "relation": "other",
+        "object": "a refugee"
+      },
+      {
+        "subject": "husbands",
+        "relation": "other",
+        "object": "previous convictions"
+      },
+      {
+        "subject": "Farmers",
+        "relation": "other",
+        "object": "thousands"
+      }
+    ],
+    "relationship_count": 14
+  },
+  {
+    "doc_id": "20260621_180750_6",
+    "total_entity_mentions": 21,
+    "unique_entities": 18,
+    "entities_by_type": {
+      "DATE": [
+        "two years",
+        "six-month"
+      ],
+      "EVENT": [
+        "World Cup",
+        "the World Cup",
+        "Africa Cup of",
+        "World Cup"
+      ],
+      "GPE": [
+        "Scotland",
+        "Morocco",
+        "Morocco",
+        "Morocco",
+        "Tunisia",
+        "Sabri"
+      ],
+      "MONEY": [
+        "71",
+        "10",
+        "2023",
+        "2026"
+      ],
+      "ORG": [
+        "Emmerson Mnangagwa's",
+        "Herve Renard"
+      ],
+      "PERSON": [
+        "Diezani Alison-Madueke",
+        "Markos",
+        "Achraf Hakimi"
+      ]
+    },
+    "top_entities": {
+      "Morocco": 3,
+      "World Cup": 2,
+      "Scotland": 1,
+      "71": 1,
+      "Emmerson Mnangagwa's": 1
+    },
+    "relationships": [
+      {
+        "subject": "More than eight million South Africans",
+        "relation": "other",
+        "object": "HIV"
+      },
+      {
+        "subject": "Scotland",
+        "relation": "other",
+        "object": "just 71 seconds"
+      },
+      {
+        "subject": "historic knock-out place",
+        "relation": "other",
+        "object": "their own hands"
+      },
+      {
+        "subject": "The proposal",
+        "relation": "other",
+        "object": "Emmerson Mnangagwa's term"
+      },
+      {
+        "subject": "The proposal",
+        "relation": "other",
+        "object": "two years"
+      },
+      {
+        "subject": "Health facilities",
+        "relation": "other",
+        "object": "attack"
+      },
+      {
+        "subject": "Health facilities",
+        "relation": "other",
+        "object": "the current outbreak"
+      },
+      {
+        "subject": "Health facilities",
+        "relation": "other",
+        "object": "a result"
+      },
+      {
+        "subject": "Markos's beloved hen",
+        "relation": "other",
+        "object": "any treatments"
+      },
+      {
+        "subject": "he",
+        "relation": "other",
+        "object": "the only thing"
+      },
+      {
+        "subject": "African teams",
+        "relation": "other",
+        "object": "the World Cup"
+      },
+      {
+        "subject": "Morocco captain Achraf Hakimi",
+        "relation": "other",
+        "object": "trial"
+      },
+      {
+        "subject": "Morocco captain Achraf Hakimi",
+        "relation": "other",
+        "object": "accusations"
+      },
+      {
+        "subject": "Tunisia",
+        "relation": "other",
+        "object": "winner Herve Renard"
+      },
+      {
+        "subject": "Tunisia",
+        "relation": "other",
+        "object": "two-time Africa Cup"
+      },
+      {
+        "subject": "Sabri Lamouchi",
+        "relation": "other",
+        "object": "one match"
+      }
+    ],
+    "relationship_count": 16
+  },
+  {
+    "doc_id": "20260621_180750_5",
+    "total_entity_mentions": 23,
+    "unique_entities": 20,
+    "entities_by_type": {
+      "DATE": [
+        "last week",
+        "Wednesday",
+        "Wednesday"
+      ],
+      "GPE": [
+        "Iran",
+        "Ukraine",
+        "Belgrade",
+        "US",
+        "US",
+        "Morocco",
+        "Johannes Natland",
+        "Primorsk",
+        "Catalonia"
+      ],
+      "MONEY": [
+        "13",
+        "2023",
+        "2023",
+        "81",
+        "200",
+        "19",
+        "63"
+      ],
+      "ORG": [
+        "Trump",
+        "Channel"
+      ],
+      "PERSON": [
+        "Vladislav Ribnikar school",
+        "Achraf Hakimi"
+      ]
+    },
+    "top_entities": {
+      "2023": 2,
+      "US": 2,
+      "Wednesday": 2,
+      "Trump": 1,
+      "Iran": 1
+    },
+    "relationships": [
+      {
+        "subject": "their earlier close ties",
+        "relation": "other",
+        "object": "Trump's decision"
+      },
+      {
+        "subject": "Ukraine",
+        "relation": "other",
+        "object": "the move"
+      },
+      {
+        "subject": "he",
+        "relation": "other",
+        "object": "eight girls"
+      },
+      {
+        "subject": "he",
+        "relation": "other",
+        "object": "2023"
+      },
+      {
+        "subject": "The US defence secretary's move",
+        "relation": "other",
+        "object": "a US decision"
+      },
+      {
+        "subject": "Morocco captain Achraf Hakimi",
+        "relation": "other",
+        "object": "trial"
+      },
+      {
+        "subject": "Morocco captain Achraf Hakimi",
+        "relation": "other",
+        "object": "accusations"
+      },
+      {
+        "subject": "almost 200 Ukrainian drones",
+        "relation": "founded",
+        "object": "an area"
+      },
+      {
+        "subject": "Johannes Natland",
+        "relation": "other",
+        "object": "custody"
+      },
+      {
+        "subject": "which",
+        "relation": "other",
+        "object": "port"
+      },
+      {
+        "subject": "which",
+        "relation": "other",
+        "object": "Primorsk"
+      },
+      {
+        "subject": "Forwarder",
+        "relation": "other",
+        "object": "the Channel"
+      },
+      {
+        "subject": "Forwarder",
+        "relation": "other",
+        "object": "Wednesday evening"
+      },
+      {
+        "subject": "old",
+        "relation": "other",
+        "object": "the Palau de Noguera area"
+      },
+      {
+        "subject": "old",
+        "relation": "other",
+        "object": "Wednesday"
+      }
+    ],
+    "relationship_count": 15
+  },
+  {
+    "doc_id": "20260621_180750_1",
+    "total_entity_mentions": 23,
+    "unique_entities": 13,
+    "entities_by_type": {
+      "DATE": [
+        "just days",
+        "last week",
+        "Wednesday",
+        "the past three days"
+      ],
+      "GPE": [
+        "US",
+        "Iran",
+        "Primorsk",
+        "US",
+        "Iran",
+        "US",
+        "US",
+        "Iran",
+        "Iran",
+        "Bases",
+        "Iran",
+        "US",
+        "US",
+        "Oman",
+        "US"
+      ],
+      "MONEY": [
+        "300"
+      ],
+      "ORG": [
+        "Channel",
+        "BBC Verify"
+      ],
+      "PERSON": [
+        "Trump"
+      ]
+    },
+    "top_entities": {
+      "US": 7,
+      "Iran": 5,
+      "300": 1,
+      "just days": 1,
+      "Primorsk": 1
+    },
+    "relationships": [
+      {
+        "subject": "internet",
+        "relation": "other",
+        "object": "casualty"
+      },
+      {
+        "subject": "The US",
+        "relation": "other",
+        "object": "a plan"
+      },
+      {
+        "subject": "The historic pool",
+        "relation": "other",
+        "object": "algae"
+      },
+      {
+        "subject": "it",
+        "relation": "other",
+        "object": "water"
+      },
+      {
+        "subject": "it",
+        "relation": "other",
+        "object": "renovations"
+      },
+      {
+        "subject": "which",
+        "relation": "other",
+        "object": "port"
+      },
+      {
+        "subject": "which",
+        "relation": "other",
+        "object": "Primorsk"
+      },
+      {
+        "subject": "Forwarder",
+        "relation": "other",
+        "object": "the Channel"
+      },
+      {
+        "subject": "Forwarder",
+        "relation": "other",
+        "object": "Wednesday evening"
+      },
+      {
+        "subject": "the new deal",
+        "relation": "other",
+        "object": "three key areas"
+      },
+      {
+        "subject": "Three Iranian tankers",
+        "relation": "other",
+        "object": "the US blockade line"
+      },
+      {
+        "subject": "Three Iranian tankers",
+        "relation": "other",
+        "object": "the Gulf"
+      },
+      {
+        "subject": "the US",
+        "relation": "other",
+        "object": "a deal"
+      },
+      {
+        "subject": "what",
+        "relation": "other",
+        "object": "Iran's nuclear programme Bases"
+      },
+      {
+        "subject": "what",
+        "relation": "other",
+        "object": "Iran"
+      },
+      {
+        "subject": "experts",
+        "relation": "other",
+        "object": "damage"
+      },
+      {
+        "subject": "Three tankers",
+        "relation": "other",
+        "object": "the past three days"
+      },
+      {
+        "subject": "The crew",
+        "relation": "other",
+        "object": "Oman"
+      }
+    ],
+    "relationship_count": 18
+  },
+  {
+    "doc_id": "20260621_180750_11",
+    "total_entity_mentions": 2,
+    "unique_entities": 2,
+    "entities_by_type": {
+      "ORG": [
+        "Latest \n \n\n AI",
+        "Apps \n \n\n Biotech & Health"
+      ]
+    },
+    "top_entities": {
+      "Latest \n \n\n AI": 1,
+      "Apps \n \n\n Biotech & Health": 1
+    },
     "relationships": [],
     "relationship_count": 0
   }

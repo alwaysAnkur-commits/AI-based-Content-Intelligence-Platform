@@ -1,0 +1,326 @@
+{
+  "auto_accepted": [
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.8807,
+      "routing_status": "auto_accepted",
+      "reason": "High-confidence classification \u2014 auto-accepted",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.8807,
+      "routing_status": "auto_accepted",
+      "reason": "High-confidence classification \u2014 auto-accepted",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.8807,
+      "routing_status": "auto_accepted",
+      "reason": "High-confidence classification \u2014 auto-accepted",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.8807,
+      "routing_status": "auto_accepted",
+      "reason": "High-confidence classification \u2014 auto-accepted",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.8807,
+      "routing_status": "auto_accepted",
+      "reason": "High-confidence classification \u2014 auto-accepted",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.8807,
+      "routing_status": "auto_accepted",
+      "reason": "High-confidence classification \u2014 auto-accepted",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.8807,
+      "routing_status": "auto_accepted",
+      "reason": "High-confidence classification \u2014 auto-accepted",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.8807,
+      "routing_status": "auto_accepted",
+      "reason": "High-confidence classification \u2014 auto-accepted",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.8807,
+      "routing_status": "auto_accepted",
+      "reason": "High-confidence classification \u2014 auto-accepted",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.8807,
+      "routing_status": "auto_accepted",
+      "reason": "High-confidence classification \u2014 auto-accepted",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.8515,
+      "routing_status": "auto_accepted",
+      "reason": "High-confidence classification \u2014 auto-accepted",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    }
+  ],
+  "review_queue": [
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.7013,
+      "routing_status": "flagged_for_review",
+      "reason": "Confidence between 60-85% \u2014 human review recommended",
+      "routed_at": "2026-06-20T18:52:40.614069"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.6195,
+      "routing_status": "flagged_for_review",
+      "reason": "Confidence between 60-85% \u2014 human review recommended",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.6615,
+      "routing_status": "flagged_for_review",
+      "reason": "Confidence between 60-85% \u2014 human review recommended",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.6698,
+      "routing_status": "flagged_for_review",
+      "reason": "Confidence between 60-85% \u2014 human review recommended",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.7744,
+      "routing_status": "flagged_for_review",
+      "reason": "Confidence between 60-85% \u2014 human review recommended",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.6313,
+      "routing_status": "flagged_for_review",
+      "reason": "Confidence between 60-85% \u2014 human review recommended",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.6292,
+      "routing_status": "flagged_for_review",
+      "reason": "Confidence between 60-85% \u2014 human review recommended",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.7053,
+      "routing_status": "flagged_for_review",
+      "reason": "Confidence between 60-85% \u2014 human review recommended",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.615,
+      "routing_status": "flagged_for_review",
+      "reason": "Confidence between 60-85% \u2014 human review recommended",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.7705,
+      "routing_status": "flagged_for_review",
+      "reason": "Confidence between 60-85% \u2014 human review recommended",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.7373,
+      "routing_status": "flagged_for_review",
+      "reason": "Confidence between 60-85% \u2014 human review recommended",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.7176,
+      "routing_status": "flagged_for_review",
+      "reason": "Confidence between 60-85% \u2014 human review recommended",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    }
+  ],
+  "rejected": [
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.5474,
+      "routing_status": "rejected",
+      "reason": "Model confidence below 60% \u2014 likely ambiguous or noisy document",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.4163,
+      "routing_status": "rejected",
+      "reason": "Model confidence below 60% \u2014 likely ambiguous or noisy document",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.5499,
+      "routing_status": "rejected",
+      "reason": "Model confidence below 60% \u2014 likely ambiguous or noisy document",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.5079,
+      "routing_status": "rejected",
+      "reason": "Model confidence below 60% \u2014 likely ambiguous or noisy document",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.5535,
+      "routing_status": "rejected",
+      "reason": "Model confidence below 60% \u2014 likely ambiguous or noisy document",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.5579,
+      "routing_status": "rejected",
+      "reason": "Model confidence below 60% \u2014 likely ambiguous or noisy document",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.5895,
+      "routing_status": "rejected",
+      "reason": "Model confidence below 60% \u2014 likely ambiguous or noisy document",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.5496,
+      "routing_status": "rejected",
+      "reason": "Model confidence below 60% \u2014 likely ambiguous or noisy document",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "blog",
+      "confidence": 0.5476,
+      "routing_status": "rejected",
+      "reason": "Model confidence below 60% \u2014 likely ambiguous or noisy document",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.3866,
+      "routing_status": "rejected",
+      "reason": "Model confidence below 60% \u2014 likely ambiguous or noisy document",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.586,
+      "routing_status": "rejected",
+      "reason": "Model confidence below 60% \u2014 likely ambiguous or noisy document",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.4125,
+      "routing_status": "rejected",
+      "reason": "Model confidence below 60% \u2014 likely ambiguous or noisy document",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.4966,
+      "routing_status": "rejected",
+      "reason": "Model confidence below 60% \u2014 likely ambiguous or noisy document",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.5106,
+      "routing_status": "rejected",
+      "reason": "Model confidence below 60% \u2014 likely ambiguous or noisy document",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.411,
+      "routing_status": "rejected",
+      "reason": "Model confidence below 60% \u2014 likely ambiguous or noisy document",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    },
+    {
+      "doc_id": NaN,
+      "predicted_label": "news",
+      "confidence": 0.5725,
+      "routing_status": "rejected",
+      "reason": "Model confidence below 60% \u2014 likely ambiguous or noisy document",
+      "routed_at": "2026-06-20T18:52:40.629775"
+    }
+  ],
+  "summary": {
+    "auto_accepted": 11,
+    "flagged": 12,
+    "rejected": 16
+  },
+  "generated_at": "2026-06-20T18:52:40.629775"
+}

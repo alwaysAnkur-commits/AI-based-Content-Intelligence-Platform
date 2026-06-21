@@ -1,0 +1,62 @@
+[
+  {
+    "doc_id": "2b4a2223-fa81-409d-a18b-60d6741d44ea",
+    "fused_score": 0.5,
+    "dense_score": 0,
+    "sparse_score": 1.0
+  },
+  {
+    "doc_id": "c5b51be7-47df-4179-9185-b827c8cf0c1c",
+    "fused_score": 0.0,
+    "dense_score": 0,
+    "sparse_score": 0.0
+  },
+  {
+    "doc_id": "0bf36502-7344-4738-837e-626449b01967",
+    "fused_score": 0.0,
+    "dense_score": 0,
+    "sparse_score": 0.0
+  },
+  {
+    "doc_id": "e2108479-7ba5-468c-af08-bacb7925adc2",
+    "fused_score": 0.0,
+    "dense_score": 0,
+    "sparse_score": 0.0
+  },
+  {
+    "doc_id": "c42afcc8-c767-4783-bcde-cae179f6e6d6",
+    "fused_score": 0.0,
+    "dense_score": 0,
+    "sparse_score": 0.0
+  },
+  {
+    "doc_id": "3a85a416-af67-43d5-8654-b117737cc047",
+    "fused_score": 0.0,
+    "dense_score": 0,
+    "sparse_score": 0.0
+  },
+  {
+    "doc_id": "30b19f9b-5008-4fb1-9c77-809df15359d6",
+    "fused_score": 0.0,
+    "dense_score": 0,
+    "sparse_score": 0.0
+  },
+  {
+    "doc_id": "23b23ae1-c1c9-4254-b7c1-4212c461661c",
+    "fused_score": 0.0,
+    "dense_score": 0,
+    "sparse_score": 0.0
+  },
+  {
+    "doc_id": "97076d8b-4102-4737-abe8-08ecb28e946f",
+    "fused_score": 0.0,
+    "dense_score": 0,
+    "sparse_score": 0.0
+  },
+  {
+    "doc_id": "1cc66ff6-41d5-4d50-b4dd-d7c490324111",
+    "fused_score": 0.0,
+    "dense_score": 0,
+    "sparse_score": 0.0
+  }
+]

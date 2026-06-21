@@ -8,12 +8,11 @@ from doc_stats import compute_stats
 import os
 from datetime import datetime
 
-def process_single_document(record: dict, run_id: str) -> dict:
+def process_single_document(record: dict, run_id: str, doc_id: str) -> dict:
     """
     Full pipeline for one document:
     clean → detect language → tokenize → lemmatize → compute stats
     """
-    doc_id = record.get("doc_id", "")
     raw_body = str(record.get("body", "") or "")
     raw_title = str(record.get("title", "") or "")
     
@@ -29,7 +28,9 @@ def process_single_document(record: dict, run_id: str) -> dict:
     
     return {
         "run_id": run_id,
-        "doc_id": doc_id,
+        "doc_id": doc_id,  # ✅ always retained
+        "date": record.get("date", ""),  # ✅ propagate original date from deduped_articles
+        "timestamp": record.get("timestamp", ""),  # optional: keep raw scrape timestamp too
         "source": record.get("source", ""),
         "title_clean": clean_title,
         "body_clean": clean_body,
@@ -57,9 +58,14 @@ def run_batch_pipeline(input_csv: str, output_csv: str, max_workers: int = None)
     start_time = time.perf_counter()
     results = []
     
+    # ✅ Generate doc_id for each record if missing
+    for i, rec in enumerate(records):
+        if "doc_id" not in rec or not rec["doc_id"]:
+            rec["doc_id"] = f"{run_id}_{i}"
+    
     # Use ProcessPoolExecutor for true parallelism on CPU-bound NLP work
     with ProcessPoolExecutor(max_workers=max_workers) as executor:
-        futures = {executor.submit(process_single_document, rec, run_id): i 
+        futures = {executor.submit(process_single_document, rec, run_id, rec["doc_id"]): i 
                    for i, rec in enumerate(records)}
         
         with tqdm(total=total, desc="Processing") as pbar:
@@ -72,7 +78,9 @@ def run_batch_pipeline(input_csv: str, output_csv: str, max_workers: int = None)
                     print(f"\nError on doc {idx}: {e}")
                     results.append({
                         "run_id": run_id,
-                        "doc_id": records[idx].get("doc_id", ""),
+                        "doc_id": records[idx].get("doc_id", f"{run_id}_{idx}"),
+                        "date": records[idx].get("date", ""),
+                        "timestamp": records[idx].get("timestamp", ""),
                         "error": str(e)
                     })
                 pbar.update(1)

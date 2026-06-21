@@ -113,5 +113,5 @@ if __name__ == "__main__":
     
     print("\nApplying optimizations (nlp.pipe + disable parser)...")
     # After applying optimizations in batch_pipeline.py, re-run:
-    # after = time_pipeline_stages(records, n=30)
-    # write_optimization_report(before, after, n=30)
+    after = time_pipeline_stages(records, n=30)
+    write_optimization_report(before, after, n=30)
